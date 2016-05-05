@@ -1,0 +1,21 @@
+John
+P.
+Doe
+35
+-/-
+123
+Pollen
+Cannot be exposed
+-a-
+-//-
+123
+Flu
+Aches
+-i-
+-///-
+123
+Aspirin
+20mg
+-m-
+
+-end-
